@@ -1,0 +1,4 @@
+Loader Update: 2.1 - 26.05.2023
+
+[+] Auto Update
+[+] Changelog

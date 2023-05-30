@@ -1,3 +1,22 @@
+Cheat Update: 2.0 - 30.05.2023
+
+[+] V2 Release
+[+] Stream Proof
+[+] Complete new Menu
+[+] Tooltips
+[+] Inventory Manager
+
+[/] Crashes fixxed
+[/] Many Bugfixes
+[/] Fixxed unhook button
+
+[-] Removed Trash
+[-] HVH Features
+
+[+/-] And much more!
+
+Reverted many Changes so everything that made in V1 gotta need too do in V2
+
 Loader Update: 2.1 - 26.05.2023
 
 [+] Auto Update

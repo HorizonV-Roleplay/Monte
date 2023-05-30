@@ -1,4 +1,8 @@
-Cheat Update: 2.0 - 30.05.2023
+Cheat Loader Update: 2.0 - 30.05.2023
+
+Reverted many Changes so everything that made in V1 gotta need too do in V2
+
+Cheat Changelog
 
 [+] V2 Release
 [+] Stream Proof
@@ -15,7 +19,10 @@ Cheat Update: 2.0 - 30.05.2023
 
 [+/-] And much more!
 
-Reverted many Changes so everything that made in V1 gotta need too do in V2
+Loader Changelog
+
+[+] Added one Cheat too the list
+[+] Added informations too the Cheats
 
 Loader Update: 2.1 - 26.05.2023
 

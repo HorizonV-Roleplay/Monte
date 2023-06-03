@@ -1,3 +1,16 @@
+Cheat Update: 2.1 - 03.06.2023
+
+[+] Autostop
+[+] 400 Backtrack
+
+[/] Font Update
+[/] Watermark Update
+
+[-] Removed Useless Stuff
+
+[*] Anti-Aim (Semirage)
+[*] Aimbot Update (Semirage)
+
 Cheat Loader Update: 2.0 - 30.05.2023
 
 Reverted many Changes so everything that made in V1 gotta need too do in V2

@@ -3,11 +3,12 @@ Cheat Update: 2.1 - 03.06.2023
 [+] Autostop
 [+] 400 Backtrack
 
-[/] Font Update
 [/] Watermark Update
 
 [-] Removed Useless Stuff
 
+[*] Font Update Soon
+[*] New ESP Stuff
 [*] Anti-Aim (Semirage)
 [*] Aimbot Update (Semirage)
 

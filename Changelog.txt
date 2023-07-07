@@ -1,3 +1,10 @@
+Loader Update: 2.2 - 07.07.2023
+
+[+] Added groups
+[+] Dev Version
+
+[-] Remmoved Rage version
+
 Cheat Update: 2.1 - 03.06.2023
 
 [+] Autostop
@@ -13,8 +20,6 @@ Cheat Update: 2.1 - 03.06.2023
 [*] Aimbot Update (Semirage)
 
 Cheat Loader Update: 2.0 - 30.05.2023
-
-Reverted many Changes so everything that made in V1 gotta need too do in V2
 
 Cheat Changelog
 
